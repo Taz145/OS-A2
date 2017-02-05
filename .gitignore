@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+CMakeLists.txt
+cmake-build-debug
+cmake-build-debug/*
+.idea
